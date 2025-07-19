@@ -63,7 +63,7 @@ const Hero = () => {
 
         <button
           onClick={() => setShowModal(true)}
-          className="flex items-center gap-2 border border-pink-600 text-pink-600 px-6 py-3 rounded-lg hover:bg-pink-600 hover:text-white transition"
+          className="flex items-center gap-2 border border-pink-600 text-pink-600 px-6 py-3 rounded-lg hover:bg-pink-600 hover:text-white transition cursor-pointer"
         >
           <FaDownload />
           Preview Resume
