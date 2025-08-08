@@ -26,14 +26,14 @@ const data = [
     type: "Education",
     role: "B.Tech, Computer Science",
     org: "ANITS, Visakhapatnam",
-    period: "2017 – 2020",
+    period: "2020 – 2023",
     details: ["GPA: 8.8/10"],
   },
   {
     type: "Education",
     role: "Diploma, Computer Engineering",
     org: "Govt. Polytechnic, Visakhapatnam",
-    period: "2014 – 2017",
+    period: "2017 – 2020",
     details: ["Grade: 88/100"],
   },
 ];
